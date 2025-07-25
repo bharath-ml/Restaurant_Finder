@@ -1,10 +1,11 @@
-🍽️ Swiggy Restaurant Recommendation System:
+# 🍽️ Swiggy Restaurant Recommendation System
 
 
-[[[[QUICK RECAP]]]]:(if you familiar with vs code):
+## [[[[QUICK RECAP]]]]:(if you familiar with vs code):
 
-1)--->clone my repository--> git clone https://github.com/bharath-ml/Restaurant_Finder.git
-2) data preprocessing:
+### 1)--->clone my repository:
+   git clone https://github.com/bharath-ml/Restaurant_Finder.git
+### data preprocessing:
   --->data---> i will provide you drive link for data(architecture): dont worry if you run [data_cleaning.py, encoding.py] the files under data and model will be created
                 ├── data/
                 │   ├── swiggy.csv              # Raw dataset
@@ -14,13 +15,12 @@
                 ├── model/
                 │   └── encoder.pkl             # Saved OneHotEncoder
 
-3)run recommendation_engine.py then app.py for streamlit interface
+### 3)run recommendation_engine.py then app.py for streamlit interface
 
 
 
 
-[[[[[STEP BY STEP PROCESS]]]]]]:
-# 🍽️ Swiggy Restaurant Recommendation System
+## [[[[[STEP BY STEP PROCESS]]]]]]:
 
 A machine learning-powered restaurant recommendation system that helps users discover restaurants based on their preferences using cosine similarity and interactive web interface.
 
