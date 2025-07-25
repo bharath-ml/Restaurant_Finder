@@ -2,6 +2,6 @@ data/
 model/
 *.csv
 *.pkl
-.env
+.venv/
 __pycache__/
 
