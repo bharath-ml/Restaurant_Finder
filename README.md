@@ -1,4 +1,25 @@
-🍽️ Swiggy Restaurant Recommendation System
+🍽️ Swiggy Restaurant Recommendation System:
+
+
+[[[[QUICK RECAP]]]]:(if you familiar with vs code):
+
+1)--->clone my repository--> git clone https://github.com/bharath-ml/Restaurant_Finder.git
+2) data preprocessing:
+  --->data---> i will provide you drive link for data(architecture): dont worry if you run [data_cleaning.py, encoding.py] the files under data and model will be created
+                ├── data/
+                │   ├── swiggy.csv              # Raw dataset
+                │   ├── cleaned_data.csv        # Processed dataset
+                │   └── encoded_data.csv        # ML-ready encoded features
+                │
+                ├── model/
+                │   └── encoder.pkl             # Saved OneHotEncoder
+
+3)run recommendation_engine.py then app.py for streamlit interface
+
+
+
+
+[[[[[STEP BY STEP PROCESS]]]]]]:
 
 A machine learning-powered restaurant recommendation system that helps users discover restaurants based on their preferences using cosine similarity and interactive web interface.
 🎯 Project Overview
@@ -40,7 +61,7 @@ pip package manager
 Installation
 
 Clone the repository
-bashgit clone https://github.com/bharath-ml/Restaurant_recommendation_system.git
+bashgit clone https://github.com/bharath-ml/Restaurant_Finder.git
 cd swiggy-recommendation-system
 
 Create virtual environment (recommended)
@@ -138,13 +159,6 @@ Commit your changes (git commit -m 'Add some AmazingFeature')
 Push to the branch (git push origin feature/AmazingFeature)
 Open a Pull Request
 
-📝 Project Timeline
-
-Day 1-2: Data cleaning and preprocessing ✅
-Day 3-4: Recommendation engine development ✅
-Day 5-6: Streamlit application creation ✅
-Day 7: Testing, documentation, and deployment ✅
-
 🎯 Future Enhancements
 
  Collaborative Filtering: Implement user-based recommendations
@@ -170,7 +184,7 @@ Large datasets may require additional optimization
 
 📧 Contact
 Your Name - parimibharathkumar@gmail.com
-Project Link: https://github.com/bharath-ml/Restaurant_recommendation_system.git
+Project Link: https://github.com/bharath-ml/Restaurant_Finder.git
 
 🙏 Acknowledgments
 
