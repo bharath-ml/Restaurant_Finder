@@ -1,4 +1,7 @@
+data/
+model/
+*.csv
+*.pkl
+.env
 __pycache__/
-
-
 
