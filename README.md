@@ -5,7 +5,7 @@
 
 ### 1)--->clone my repository:
    git clone https://github.com/bharath-ml/Restaurant_Finder.git
-### data preprocessing:
+### 2)data preprocessing:
   --->data---> i will provide you drive link for data(architecture): dont worry if you run [data_cleaning.py, encoding.py] the files under data and model will be created
                 ├── data/
                 │   ├── swiggy.csv              # Raw dataset
