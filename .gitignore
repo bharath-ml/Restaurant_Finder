@@ -1,7 +1,3 @@
-data/
-model/
-*.csv
-*.pkl
 .venv/
 __pycache__/
 
